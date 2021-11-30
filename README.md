@@ -1,2 +1,1 @@
-# pure-php
-Darbui plikas PHP
+Made by Andrius.
